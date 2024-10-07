@@ -1,8 +1,1 @@
-#Content#
-Basic good-looking HTML page
-##Language used##
-HTML
-CSS
-JS
-###Reel Count###
-1
+This is a basic good looking Html login/signup page for website. To use this just copy-paste it. Please to support me add a credit or for a reel mention me it will support me to make more content like this
